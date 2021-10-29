@@ -13,7 +13,7 @@
     <h1 id="login-header">Login</h1>
 
     <div id="login-error-msg-holder">
-      <p id="login-error-msg">Invalid username <span id="error-msg-second-line">and/or password</span></p>
+      <p id="login-error-msg">Hai friends</span></p>
     </div>
 
     <form id="login-form">
